@@ -1,0 +1,495 @@
+{
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0db845/": {
+        "fingerprint": "09bc7bba31739e6af67ba2e21406c024",
+        "raw_data": {
+            "h1_title": "АКПП Porsche Panamera 2010",
+            "brand": "Porsche",
+            "price_raw": "99999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_374.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_375.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_376.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_377.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/78/0010_78_378.jpg"
+            ],
+            "specs": {
+                "Марка": "Porsche",
+                "Модель": "Panamera",
+                "Кузов": "970",
+                "Двигатель": "M46.20",
+                "Год": "2010",
+                "Номер по производителю": "97032110500",
+                "Производитель": "VAG"
+            },
+            "available": true,
+            "category_name": "АКПП",
+            "category_usp": "",
+            "description_usp": "Контрактная АКПП Porsche Panamera 2010 970 M46.20 97032110500",
+            "sales_notes": "Пробег 98 300 км, аукционный лист",
+            "custom_labels": [
+                "Б/У",
+                "Porsche",
+                "Контрактный",
+                "АКПП"
+            ],
+            "variations": [
+                {
+                    "title": "АКПП Porsche Panamera 2010",
+                    "description": "Контрактная АКПП от Porsche Panamera 2010, кузов 970, двигатель M46.20, номер 97032110500. Оригинальный пробег 98 300 км, аукционный лист из Японии."
+                },
+                {
+                    "title": "АКПП Porsche Panamera 2010",
+                    "description": "Оригинальная АКПП с пробегом 98 300 км. Снята с Porsche Panamera 2010. В наличии в Москве."
+                },
+                {
+                    "title": "АКПП Porsche Panamera 2010",
+                    "description": "Контрактная коробка передач для Porsche Panamera 2010. Модель M46.20, номер 97032110500. Пробег 98 300 км."
+                },
+                {
+                    "title": "АКПП Porsche Panamera 2010",
+                    "description": "АКПП от Porsche Panamera 2010 года. Кузов 970, двигатель M46.20. Есть аукционный лист."
+                },
+                {
+                    "title": "АКПП Porsche Panamera 2010",
+                    "description": "Б/у АКПП Porsche Panamera 2010, 970 M46.20. Пробег 98 300 км. Доставка по Москве."
+                },
+                {
+                    "title": "АКПП Porsche Panamera 2010",
+                    "description": "Контрактная АКПП для Porsche Panamera 2010. Номер 97032110500. В наличии на складе."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "АКПП {Марка} {Модель} {Год} {Кузов} {Двигатель} {Номер по производителю}",
+            "collection_description": "Контрактная АКПП Porsche Panamera (кузов 970, двс M46.20)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T20:22:28.119704"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba56/": {
+        "fingerprint": "ea182b13abe2b47646b39443261a2624",
+        "raw_data": {
+            "h1_title": "АКПП Porsche Macan 2016",
+            "brand": "Porsche",
+            "price_raw": "104999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_680.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_681.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_682.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_683.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_684.jpg"
+            ],
+            "specs": {
+                "Марка": "Porsche",
+                "Модель": "Macan",
+                "Кузов": "95B",
+                "Двигатель": "CNCC",
+                "Год": "2016",
+                "Номер по производителю": "0FD300040B",
+                "Производитель": "VAG",
+                "Кросс-номера": "95B341010, 95B927755B",
+                "Пробег": "37 559 км"
+            },
+            "available": true,
+            "category_name": "АКПП",
+            "category_usp": "",
+            "description_usp": "Контрактная АКПП для Porsche Macan 2016, кузов 95B, двигатель CNCC, номер 0FD300040B, пробег 37 559 км",
+            "sales_notes": "Пробег 37 559 км, аукционный лист из Японии",
+            "custom_labels": [
+                "Б/У",
+                "Porsche",
+                "Контрактный",
+                "АКПП"
+            ],
+            "variations": [
+                {
+                    "title": "АКПП Porsche Macan 2016 контрактная",
+                    "description": "Оригинальная контрактная АКПП для Porsche Macan 2016 года. Снята с автомобиля с пробегом 37 559 км. Номер 0FD300040B. В наличии в Москве."
+                },
+                {
+                    "title": "АКПП Porsche Macan 2016 95B",
+                    "description": "АКПП для Porsche Macan 2016, кузов 95B, двигатель CNCC. Контрактная, пробег 37 559 км. Есть аукционный лист из Японии."
+                },
+                {
+                    "title": "АКПП Porsche Macan 2016 0FD300040B",
+                    "description": "Контрактная АКПП Porsche Macan 2016 с номером 0FD300040B. Пробег 37 559 км. Подходит для двигателя CNCC. В наличии."
+                },
+                {
+                    "title": "АКПП Porsche Macan 2016 VAG",
+                    "description": "Оригинальная АКПП VAG для Porsche Macan 2016. Контрактная, пробег 37 559 км. Кросс-номера: 95B341010, 95B927755B."
+                },
+                {
+                    "title": "АКПП Porsche Macan 2016 из Японии",
+                    "description": "Контрактная АКПП Porsche Macan 2016, привезена из Японии. Пробег 37 559 км. Аукционный лист в наличии."
+                },
+                {
+                    "title": "АКПП Porsche Macan 2016 Москва",
+                    "description": "АКПП для Porsche Macan 2016 в наличии в Москве. Контрактная, пробег 37 559 км. Номер 0FD300040B."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Контрактная АКПП для [Марка] [Модель] [Год], кузов [Кузов], двигатель [Двигатель], номер [Номер по производителю], пробег [Пробег]",
+            "collection_description": "Контрактная АКПП Porsche Macan (кузов 95B, двс CNCC)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T20:22:50.634967"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfce9/": {
+        "fingerprint": "e4a6cfc4563333c4fcd4a5fa2a4d6b56",
+        "raw_data": {
+            "h1_title": "АКПП Porsche Panamera 4S 2011",
+            "brand": "Porsche",
+            "price_raw": "119999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/06/0009_06_002.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/06/0009_06_003.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/06/0009_06_004.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/06/0009_06_005.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/06/0009_06_006.jpg"
+            ],
+            "specs": {
+                "Марка": "Porsche",
+                "Модель": "Panamera 4S",
+                "Кузов": "970",
+                "Двигатель": "M4870",
+                "Год": "2011",
+                "Номер по производителю": "97030001152",
+                "Производитель": "VAG",
+                "Пробег": "347802 км"
+            },
+            "available": true,
+            "category_name": "АКПП",
+            "category_usp": "",
+            "description_usp": "Контрактная АКПП с пробегом 347802 км, оригинал из Японии",
+            "sales_notes": "Пробег 347802 км, аукционный лист",
+            "custom_labels": [
+                "Б/У",
+                "Porsche",
+                "Контрактный",
+                "АКПП"
+            ],
+            "variations": [
+                {
+                    "title": "АКПП Porsche Panamera 4S 2011",
+                    "description": "Контрактная АКПП с оригинальным пробегом 347802 км. Снята с Porsche Panamera 4S 2011. Есть аукционный лист из Японии. Номер 97030001152."
+                },
+                {
+                    "title": "АКПП Porsche Panamera 4S 2011",
+                    "description": "Оригинальная АКПП от Porsche Panamera 4S 2011. Пробег 347802 км. Подтверждение привоза из Японии. Кузов 970, двигатель M4870."
+                },
+                {
+                    "title": "АКПП Porsche Panamera 4S 2011",
+                    "description": "Б/у АКПП в наличии. Пробег 347802 км. Снята с Porsche Panamera 4S 2011. Аукционный лист прилагается. Номер детали 97030001152."
+                },
+                {
+                    "title": "АКПП Porsche Panamera 4S 2011",
+                    "description": "Контрактная коробка передач. Оригинальный пробег 347802 км. Автомобиль привезен из Японии. Подходит для Panamera 4S 2011."
+                },
+                {
+                    "title": "АКПП Porsche Panamera 4S 2011",
+                    "description": "АКПП с пробегом 347802 км. Снята с Porsche Panamera 4S 2011. Есть аукционный лист. Номер 97030001152. В наличии в Москве."
+                },
+                {
+                    "title": "АКПП Porsche Panamera 4S 2011",
+                    "description": "Оригинальная АКПП. Пробег 347802 км. Подтверждение из Японии. Для Panamera 4S 2011. Кузов 970, двигатель M4870."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Контрактная АКПП для [Марка] [Модель] [Год] с пробегом [Пробег] км, оригинал из Японии, номер [Номер по производителю]",
+            "collection_description": "Контрактная АКПП Porsche Panamera 4S (кузов 970, двс M4870)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T20:23:18.917225"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf1d/": {
+        "fingerprint": "a44dd1cae7da9fa0f179a58bfe6150cd",
+        "raw_data": {
+            "h1_title": "АКПП C7030 Porsche Panamera 2012",
+            "brand": "Porsche",
+            "price_raw": "139999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_904.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_905.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_906.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_907.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_908.jpg"
+            ],
+            "specs": {
+                "Марка": "Porsche",
+                "Модель": "Panamera",
+                "Кузов": "970",
+                "Двигатель": "M4640",
+                "Год": "2012",
+                "Номер по производителю": "97030001131",
+                "Производитель": "VAG",
+                "Пробег": "106692 км"
+            },
+            "available": true,
+            "category_name": "АКПП C7030 Panamera",
+            "category_usp": "",
+            "description_usp": "Контрактная АКПП C7030 для Porsche Panamera 2012, кузов 970, двигатель M4640, номер 97030001131, пробег 106692 км",
+            "sales_notes": "Пробег 106692 км, аукционный лист из Японии",
+            "custom_labels": [
+                "Б/У",
+                "Porsche",
+                "АКПП C7030 Panamera",
+                "Контрактный"
+            ],
+            "variations": [
+                {
+                    "title": "АКПП C7030 Porsche Panamera 2012",
+                    "description": "Контрактная АКПП C7030 для Porsche Panamera 2012, кузов 970, двигатель M4640, номер 97030001131, пробег 106692 км, аукционный лист из Японии"
+                },
+                {
+                    "title": "АКПП C7030 Porsche Panamera 2012",
+                    "description": "Оригинальная АКПП C7030 с пробегом 106692 км, снята с Porsche Panamera 2012, кузов 970, двигатель M4640, номер 97030001131"
+                },
+                {
+                    "title": "АКПП C7030 Porsche Panamera 2012",
+                    "description": "Контрактная АКПП C7030 для Porsche Panamera 2012, кузов 970, двигатель M4640, номер 97030001131, пробег 106692 км, подтвержденный аукционным листом"
+                },
+                {
+                    "title": "АКПП C7030 Porsche Panamera 2012",
+                    "description": "АКПП C7030 от Porsche Panamera 2012, кузов 970, двигатель M4640, номер 97030001131, пробег 106692 км, в наличии"
+                },
+                {
+                    "title": "АКПП C7030 Porsche Panamera 2012",
+                    "description": "Оригинальная АКПП C7030, снята с Porsche Panamera 2012, кузов 970, двигатель M4640, номер 97030001131, пробег 106692 км"
+                },
+                {
+                    "title": "АКПП C7030 Porsche Panamera 2012",
+                    "description": "Контрактная АКПП C7030 для Porsche Panamera 2012, кузов 970, двигатель M4640, номер 97030001131, пробег 106692 км, аукционный лист"
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Контрактная АКПП {model} для {make} {car_model} {year}, кузов {body}, двигатель {engine}, номер {part_number}, пробег {mileage} км, аукционный лист из Японии",
+            "collection_description": "Контрактная АКПП Porsche Panamera (кузов 970, двс M4640)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T20:23:40.638415"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22ef/": {
+        "fingerprint": "7d05ad37768bdec502f4aebe9e6273ae",
+        "raw_data": {
+            "h1_title": "АКПП TR-60SN Porsche Cayenne 2008",
+            "brand": "VAG",
+            "price_raw": "31999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/08/0008_08_471.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/08/0008_08_472.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/08/0008_08_473.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/08/0008_08_474.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/08/0008_08_475.jpg"
+            ],
+            "specs": {
+                "Марка": "Porsche",
+                "Модель": "Cayenne",
+                "Кузов": "957",
+                "Двигатель": "5501",
+                "Год": "2008",
+                "Номер по производителю": "95530001103",
+                "Производитель": "VAG",
+                "Кросс-номера": "09D300037M",
+                "Пробег": "98 260 км"
+            },
+            "available": true,
+            "category_name": "АКПП TR-60SN",
+            "category_usp": "",
+            "description_usp": "Контрактная АКПП TR-60SN для Porsche Cayenne 2008, кузов 957, двигатель 5501, номер 95530001103, пробег 98 260 км",
+            "sales_notes": "Пробег 98 260 км, аукционный лист из Японии",
+            "custom_labels": [
+                "Б/У",
+                "АКПП TR-60SN",
+                "Контрактный",
+                "VAG"
+            ],
+            "variations": [
+                {
+                    "title": "АКПП TR-60SN Porsche Cayenne 2008",
+                    "description": "Контрактная АКПП TR-60SN для Porsche Cayenne 2008, кузов 957, двигатель 5501, номер 95530001103, пробег 98 260 км, аукционный лист из Японии"
+                },
+                {
+                    "title": "АКПП TR-60SN Porsche Cayenne 2008",
+                    "description": "Оригинальная АКПП TR-60SN с пробегом 98 260 км, снята с Porsche Cayenne 2008, кузов 957, двигатель 5501, номер 95530001103"
+                },
+                {
+                    "title": "АКПП TR-60SN Porsche Cayenne 2008",
+                    "description": "Контрактная АКПП TR-60SN для Porsche Cayenne 2008, кузов 957, двигатель 5501, номер 95530001103, пробег 98 260 км, аукционный лист из Японии"
+                },
+                {
+                    "title": "АКПП TR-60SN Porsche Cayenne 2008",
+                    "description": "Оригинальная АКПП TR-60SN с пробегом 98 260 км, снята с Porsche Cayenne 2008, кузов 957, двигатель 5501, номер 95530001103"
+                },
+                {
+                    "title": "АКПП TR-60SN Porsche Cayenne 2008",
+                    "description": "Контрактная АКПП TR-60SN для Porsche Cayenne 2008, кузов 957, двигатель 5501, номер 95530001103, пробег 98 260 км, аукционный лист из Японии"
+                },
+                {
+                    "title": "АКПП TR-60SN Porsche Cayenne 2008",
+                    "description": "Оригинальная АКПП TR-60SN с пробегом 98 260 км, снята с Porsche Cayenne 2008, кузов 957, двигатель 5501, номер 95530001103"
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Контрактная [ТИП_ЗАПЧАСТИ] для [МАРКА] [МОДЕЛЬ] [ГОД], кузов [КУЗОВ], двигатель [ДВИГАТЕЛЬ], номер [НОМЕР], пробег [ПРОБЕГ] км, аукционный лист из Японии",
+            "collection_description": "Контрактная АКПП VAG Cayenne (кузов 957, двс 5501)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T20:24:07.781890"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e14d1/": {
+        "fingerprint": "12720b3fd699bfc1684a2780238ccd54",
+        "raw_data": {
+            "h1_title": "АКПП TR-60SN Porsche Cayenne 2007",
+            "brand": "Porsche",
+            "price_raw": "31999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_433.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_434.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_435.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_436.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/44/0008_44_437.jpg"
+            ],
+            "specs": {
+                "Марка": "Porsche",
+                "Модель": "Cayenne",
+                "Кузов": "957",
+                "Двигатель": "M5501",
+                "Год": "2007",
+                "Номер по производителю": "95530001103",
+                "Производитель": "VAG",
+                "Кросс-номера": "09D300037M",
+                "Пробег": "91 480 км"
+            },
+            "available": true,
+            "category_name": "АКПП TR-60SN Cayenne",
+            "category_usp": "",
+            "description_usp": "Контрактная АКПП TR-60SN для Porsche Cayenne 2007 957 M5501, арт. 95530001103, пробег 91 480 км",
+            "sales_notes": "Пробег 91 480 км, аукционный лист",
+            "custom_labels": [
+                "Б/У",
+                "Porsche",
+                "Контрактный",
+                "АКПП TR-60SN Cayenne"
+            ],
+            "variations": [
+                {
+                    "title": "АКПП TR-60SN Porsche Cayenne 2007",
+                    "description": "Контрактная АКПП TR-60SN для Porsche Cayenne 2007 957 M5501. Оригинальный пробег 91 480 км. Есть аукционный лист. Артикул 95530001103."
+                },
+                {
+                    "title": "АКПП TR-60SN Porsche Cayenne 2007",
+                    "description": "АКПП TR-60SN от Porsche Cayenne 2007 года. Кузов 957, двигатель M5501. Пробег 91 480 км. Номер 95530001103."
+                },
+                {
+                    "title": "АКПП TR-60SN Porsche Cayenne 2007",
+                    "description": "Контрактная коробка передач TR-60SN для Porsche Cayenne 2007. С пробегом 91 480 км. Аукционный лист в наличии."
+                },
+                {
+                    "title": "АКПП TR-60SN Porsche Cayenne 2007",
+                    "description": "АКПП TR-60SN с Porsche Cayenne 2007 957 M5501. Пробег 91 480 км. Артикул 95530001103. Кросс-номер 09D300037M."
+                },
+                {
+                    "title": "АКПП TR-60SN Porsche Cayenne 2007",
+                    "description": "Б/у АКПП TR-60SN для Porsche Cayenne 2007. Оригинальный пробег 91 480 км. Подтверждение аукционным листом."
+                },
+                {
+                    "title": "АКПП TR-60SN Porsche Cayenne 2007",
+                    "description": "Контрактная АКПП TR-60SN от Porsche Cayenne 2007 года. Пробег 91 480 км. Номер 95530001103. В наличии."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "АКПП [модель] [марка] [год] [кузов] [двигатель] [номер] контрактная пробег [пробег]",
+            "collection_description": "Контрактная АКПП Porsche Cayenne (кузов 957, двс M5501)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T20:24:30.019474"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dba5c/": {
+        "fingerprint": "a148cf89117465180f4f78aba3f92918",
+        "raw_data": {
+            "h1_title": "АКПП ZF 5HP19 Porsche Boxster 2001",
+            "brand": "ZF",
+            "price_raw": "64999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_735.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_736.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_737.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_738.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/73/0010_73_739.jpg"
+            ],
+            "specs": {
+                "Марка": "Porsche",
+                "Модель": "Boxster",
+                "Кузов": "986",
+                "Двигатель": "M96.22",
+                "Год": "2001",
+                "Номер по производителю": "98630001105",
+                "Производитель": "VAG",
+                "Кросс-номера": "1060030050, A8605-105, A8605105",
+                "Пробег": "110816 км"
+            },
+            "available": true,
+            "category_name": "АКПП ZF 5HP19",
+            "category_usp": "",
+            "description_usp": "Контрактная АКПП ZF 5HP19 для Porsche Boxster 2001 986 M96.22, арт. 98630001105, пробег 110816 км",
+            "sales_notes": "Пробег 110816 км, аукционный лист из Японии",
+            "custom_labels": [
+                "Б/У",
+                "ZF",
+                "АКПП ZF 5HP19",
+                "Контрактный"
+            ],
+            "variations": [
+                {
+                    "title": "АКПП ZF 5HP19 Porsche Boxster 2001",
+                    "description": "Контрактная АКПП ZF 5HP19 для Porsche Boxster 2001 986 M96.22, арт. 98630001105, пробег 110816 км, аукционный лист из Японии"
+                },
+                {
+                    "title": "АКПП ZF 5HP19 Boxster 2001 986",
+                    "description": "Оригинальная АКПП ZF 5HP19 с пробегом 110816 км для Porsche Boxster 2001, кузов 986, двигатель M96.22"
+                },
+                {
+                    "title": "АКПП ZF 5HP19 Porsche Boxster 986",
+                    "description": "Контрактная АКПП ZF 5HP19 для Porsche Boxster 986, 2001 год, арт. 98630001105, пробег 110816 км"
+                },
+                {
+                    "title": "АКПП ZF 5HP19 Boxster 2001 M96.22",
+                    "description": "АКПП ZF 5HP19 для Porsche Boxster 2001 с двигателем M96.22, пробег 110816 км, аукционный лист"
+                },
+                {
+                    "title": "АКПП ZF 5HP19 98630001105",
+                    "description": "Контрактная АКПП ZF 5HP19, арт. 98630001105, для Porsche Boxster 2001, пробег 110816 км"
+                },
+                {
+                    "title": "АКПП ZF 5HP19 Porsche Boxster 2001 контракт",
+                    "description": "Контрактная АКПП ZF 5HP19 для Porsche Boxster 2001, пробег 110816 км, аукционный лист из Японии"
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Контрактная АКПП [Модель] для [Марка] [Модель авто] [Год] [Кузов] [Двигатель], арт. [Номер], пробег [Пробег] км, аукционный лист из Японии",
+            "collection_description": "Контрактная АКПП ZF Boxster (кузов 986, двс M96.22)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T20:24:53.988453"
+    }
+}
